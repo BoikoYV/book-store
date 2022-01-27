@@ -22,4 +22,6 @@ Book Store is a team Pet-project. It consists of the following main pages and bl
 - 404;
 
 #### 📝 Book Store website structure
+![image](https://user-images.githubusercontent.com/68449997/151276183-8f1219fd-b032-47ad-a754-fbd723f284b7.png)
+
 
